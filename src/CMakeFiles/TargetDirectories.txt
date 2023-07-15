@@ -1,0 +1,10 @@
+/home/xiaosa/XiaosaClusterChatServer/src/CMakeFiles/edit_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/CMakeFiles/rebuild_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/CMakeFiles/edit_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/CMakeFiles/rebuild_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Server/CMakeFiles/ServerMain.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Server/CMakeFiles/edit_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Server/CMakeFiles/rebuild_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Client/CMakeFiles/ChatClient.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Client/CMakeFiles/edit_cache.dir
+/home/xiaosa/XiaosaClusterChatServer/src/src/Client/CMakeFiles/rebuild_cache.dir

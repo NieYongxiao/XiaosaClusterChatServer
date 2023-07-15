@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/ClientMain.dir/client_main.cpp.o -o ../../ClientMain  -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/server_main.dir/Server/ChatServer.cpp.o CMakeFiles/server_main.dir/Server/ChatService.cpp.o CMakeFiles/server_main.dir/Server/Database.cpp.o CMakeFiles/server_main.dir/Server/Redis.cpp.o CMakeFiles/server_main.dir/Server/public.cpp.o CMakeFiles/server_main.dir/Server/server_main.cpp.o -o server_main 
